@@ -1,2 +1,2 @@
 # Android
-Practical tasks (university)
+Переход на следующее активити, передача данных между активити
