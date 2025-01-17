@@ -1,2 +1,2 @@
 # Android
-Practical tasks (university)
+Создание собственных всплывающих сообщений картинка + текст
