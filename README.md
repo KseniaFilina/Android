@@ -1,2 +1,2 @@
 # Android
-Practical tasks (university)
+Воспроизведение звуков при нажатии на картинки
