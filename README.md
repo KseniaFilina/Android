@@ -1,2 +1,2 @@
 # Android
-Practical tasks (university)
+Лаб. работы с сайта Климова
