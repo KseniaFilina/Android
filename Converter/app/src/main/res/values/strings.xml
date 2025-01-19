@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="radiobutton_meters">попугаи -> метры</string>
+    <string name="radiobutton_parrots">метры -> попугаи</string>
+    <string name="button_convert_text">Конвертировать</string>
+    <color name="activity_color">#3399cc</color>
+</resources>
