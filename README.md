@@ -1,2 +1,2 @@
 # Android
-Practical tasks (university)
+Собственный браузер, позволяющий открывать ссылки и возвращаться на пред страницу (!) Не работает без доп строчки в файле манифеста android:usesCleartextTraffic="true"
