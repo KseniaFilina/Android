@@ -1,2 +1,2 @@
 # Android
-Practical tasks (university)
+Знакомство с методом onDraw и классом Paint, создание рисунка на экране с помощью простых фигур
